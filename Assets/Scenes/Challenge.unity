@@ -1239,7 +1239,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc9e896172b6c5e4ebd7aec675b72962, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  myMessage: Hola cola :D
 --- !u!4 &1917712723
 Transform:
   m_ObjectHideFlags: 0
